@@ -1,0 +1,1975 @@
+@media screen and (min-width: 1200px) {
+  html body {
+    background-size: 100% auto;
+  }
+}
+@media screen and (min-width: 1200px) and (max-width: 1251px) {
+  nav.menu-act ul li {
+    padding: 35px 0 0 27px;
+  }
+  .invest-inner .process-list p {
+    padding: 0 15px;
+  }
+  .synced-cloud-bg {
+    padding: 0 15px;
+  }
+}
+
+@media screen and (min-width: 1117px) and (max-width: 1199px) {
+  .home-page-work
+    .how-it-works-bg
+    .how-it-step:first-child
+    .images-step::before {
+    right: 1px;
+    top: 13%;
+  }
+  .home-page-work
+    .how-it-works-bg
+    .how-it-step:first-child
+    .images-step::after {
+    left: -5px;
+    top: 63%;
+    height: 60%;
+  }
+  .home-page-work
+    .how-it-works-bg
+    .how-it-step:nth-child(3)
+    .images-step::after {
+    height: 330px;
+    top: -210px;
+    left: 3px;
+  }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1116px) {
+  .home-page-work
+    .how-it-works-bg
+    .how-it-step:first-child
+    .images-step::before {
+    right: 1px;
+    top: 5%;
+  }
+  .home-page-work
+    .how-it-works-bg
+    .how-it-step:first-child
+    .images-step::after {
+    left: -5px;
+    top: 245px;
+    height: 60%;
+  }
+  .home-page-work
+    .how-it-works-bg
+    .how-it-step:nth-child(3)
+    .images-step::after {
+    height: 330px;
+    top: -222px;
+    left: 3px;
+  }
+}
+
+/*-Big tablet-view*/
+@media screen and (min-width: 1025px) and (max-width: 1199px) {
+  .who-we-are-block .who-we-are.right {
+    padding: 20px 0 30px 34px;
+    width: 48%;
+  }
+  .footer-top .container > div {
+    float: left;
+    padding-right: 20px;
+  }
+  .footer-top .container > div.first-col {
+    width: 18%;
+  }
+  .footer-top .container > div.second-col,
+  .footer-top .container > div.third-col {
+    width: 15%;
+  }
+  .footer-top .container > div.fourth-col {
+    width: 27%;
+  }
+  .footer-top .container > div.fifth-col {
+    padding-right: 0;
+    width: 25%;
+  }
+  nav.menu-act ul li {
+    padding: 20px 0 0 16px;
+  }
+  header.fixed nav.menu-act ul li {
+    padding: 20px 0 0 15px;
+  }
+  nav.menu-act ul li a {
+    font-size: 16px;
+  }
+  nav.menu-act li.login-m {
+    padding-left: 15px;
+    padding-top: 11px;
+  }
+  nav.menu-act li.last-btn {
+    padding: 11px 0 12px 10px;
+  }
+  .header-top > .left {
+    width: 22%;
+    /* padding-top: 9px;*/
+  }
+  nav.menu-act a.button {
+    height: 35px;
+    line-height: 35px;
+    font-size: 15px;
+  }
+  body.inner-page.aboutus,
+  body.inner-page.faq-page {
+    background-size: 126% auto;
+  }
+
+  .home-page-work .how-it-works-bg {
+    padding: 60px 100px;
+  }
+  .who-we-are.left > ul li {
+    width: 50%;
+  }
+  .who-we-are-block .who-we-are.left::after {
+    background-position: -10px;
+  }
+  section.home-banner .home-banner-caption h2 span {
+    font-size: 50px;
+  }
+  section.home-banner .home-banner-caption h2 {
+    font-size: 50px !important;
+  }
+  section.home-banner .home-banner-caption h2 strong {
+    font-size: 70px;
+  }
+
+  .our-detail .detail-section {
+    margin: 0 -15px 60px;
+  }
+  .our-detail .detail-section .detail-item {
+    padding: 0 15px;
+  }
+  .solar-capacity .solar-capacity-blocks .solar-capacity-item {
+    padding: 0 15px 77px;
+  }
+  .solar-capacity .solar-capacity-blocks {
+    margin: 0 -15px;
+  }
+  .company-value .value-section {
+    margin: 0px -15px 0px;
+  }
+  .company-value .value-section .value-item {
+    padding: 0 15px;
+  }
+  .invest-pro-inner table {
+    width: 85%;
+  }
+  .invest-inner .process-list p {
+    padding: 0px;
+  }
+  .synced-cloud-bg {
+    padding: 0 20px;
+  }
+}
+
+/*-Big tablet-view*/
+/*-tablet-view*/
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .header-top > .left {
+    width: 24%;
+  }
+  nav.menu-act ul li,
+  header.fixed nav.menu-act ul li {
+    padding: 26px 0 0px 45px;
+  }
+  section.banner-section .container,
+  section.banner-section {
+    min-height: 500px;
+  }
+  .how-it-works-bg {
+    padding: 40px 30px;
+  }
+  .how-it-works-bg .how-it-step > div.images-step {
+    padding-right: 55px;
+  }
+  .how-it-works-bg .how-it-step:nth-child(2n) > div.images-step {
+    padding: 15px 0 40px 40px;
+  }
+  .how-it-works-bg .how-it-step:nth-child(2n) > div:first-child {
+    padding-bottom: 30px;
+    padding-top: 20px;
+  }
+  .who-we-are.left > ul {
+    padding-right: 40px;
+  }
+  .who-we-are-block .who-we-are.left::after {
+    left: 20px;
+  }
+  .who-we-are.left > ul li {
+    width: 225px;
+  }
+  .who-we-are.left > ul li:nth-child(2n) {
+    margin-left: -15px;
+  }
+  .who-we-are.left > ul li:nth-child(3n) {
+    margin-right: -20px;
+  }
+  .who-we-are-block .who-we-are .small-logo {
+    bottom: 50px;
+    width: 270px;
+    left: 50px;
+  }
+  .who-we-are.left > ul li:nth-child(3n) span {
+    padding-top: 56px;
+  }
+  .who-we-are-block .who-we-are.right {
+    padding: 8px 0 40px 34px;
+  }
+  .who-we-are-block .who-we-are.right h2 {
+    font-size: 30px;
+    margin: 0 0 10px;
+  }
+  .who-we-are-block .who-we-are.right p {
+    font-size: 15px;
+    line-height: 140%;
+    margin: 0 0 10px;
+  }
+  .section-gapping {
+    padding: 40px 0;
+  }
+  body h2 {
+    font-size: 30px;
+  }
+  .our-dashboard-block .step-content {
+    margin-top: 0;
+    width: 50%;
+  }
+  .our-dashboard-block .images-step {
+    width: 46%;
+  }
+  body .ui-accordion .ui-accordion-header {
+    height: auto;
+  }
+  .footer-top .container > div.first-col {
+    width: 18%;
+  }
+  .footer-top .container > div.second-col,
+  .footer-top .container > div.third-col {
+    width: 15%;
+  }
+  .footer-top .container > div.fourth-col {
+    width: 27%;
+  }
+  .footer-top .container > div.fifth-col {
+    padding-right: 0;
+    width: 25%;
+  }
+  .footer-top .container > div {
+    padding-right: 20px;
+  }
+  /***********FAQS**************/
+  .how-it-works-bg.faqs {
+    padding: 41px 30px 0px;
+  }
+  .how-it-step-bottom li {
+    width: 23.44%;
+  }
+  .synced-slider .span12 {
+    padding: 0 10px;
+  }
+  .feature-tabs .MuiTab-wrapper .item strong {
+    font-size: 17px;
+  }
+  .feature-tabpanels .featuredItem .product-content p {
+    font-size: 20px;
+  }
+  .feature-tabpanels .featuredItem .product-content .item-btn.btn-wrap {
+    margin: 15px 0 0;
+  }
+  nav.menu-act ul li {
+    white-space: nowrap;
+  }
+  header .header-top nav.menu-act ul li a {
+    font-size: 13px;
+  }
+  nav.menu-act a.button {
+    height: 35px;
+    line-height: 35px;
+    padding: 0 9px;
+  }
+  nav.menu-act ul li,
+  header.fixed nav.menu-act ul li {
+    padding: 20px 0 0px 6px;
+  }
+  nav.menu-act ul li.last-btn.login-m,
+  nav.menu-act li.last-btn {
+    padding-left: 10px !important;
+    padding-top: 10px !important;
+  }
+  /*------------abour-us--------*/
+  body.inner-page.aboutus section.inner.banner-section .caption {
+    padding-right: 10px;
+  }
+  section.inner.banner-section .caption p {
+    font-size: 18px;
+  }
+  .timeline-section .timeline-block .time-caption p {
+    font-size: 17px;
+  }
+  .home-page-work .how-it-header {
+    font-size: 30px;
+    padding: 20px 0;
+  }
+  .home-page-work .how-it-works-bg {
+    padding: 40px 60px;
+    margin-bottom: 40px;
+  }
+  .home-page-work .how-it-step-block {
+    max-width: 615px;
+    margin: auto;
+  }
+  .home-page-work .how-it-works-bg > h2 {
+    margin-bottom: 30px;
+  }
+  .home-page-work
+    .how-it-works-bg
+    .how-it-step:first-child
+    .images-step::after {
+    width: 100%;
+    height: 272px;
+    left: -2px;
+    top: 24px;
+  }
+  .home-page-work
+    .how-it-works-bg
+    .how-it-step:first-child
+    .images-step::before {
+    display: none;
+  }
+  .home-page-work
+    .how-it-works-bg
+    .how-it-step:nth-child(3)
+    .images-step::after {
+    top: -310px;
+    height: 435px;
+    left: 4px;
+  }
+  .home-page-work .how-it-works-bg .how-it-step:nth-child(2) {
+    padding-bottom: 40px;
+  }
+  .home-page-work .how-it-step:first-child .step-content h3::before {
+    display: none;
+  }
+  body h3 {
+    font-size: 22px;
+  }
+  .invest-with .investwith-detail .in-with-list {
+    padding: 0 10px;
+  }
+  .invest-with .investwith-detail {
+    margin: 0 -10px;
+  }
+  .invest-with .invest-contentbox h3 {
+    font-size: 20px;
+  }
+  .invest-with .invest-contentbox p {
+    font-size: 16px;
+  }
+  .invest-contentbox {
+    padding: 25px 10px;
+  }
+  .invest-item-main::after {
+    box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.06);
+  }
+  .who-we-are.left > ul li:nth-child(2n),
+  .who-we-are.left > ul li:nth-child(3n) {
+    margin-top: 45px;
+  }
+  .our-solar-step-block .our-solar-step > div.images-step img {
+    border-radius: 10px;
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+  }
+  .company-value .value-section .value-item .value-cont {
+    padding: 0px 16px 40px;
+  }
+  .company-value .value-section .value-item .value-cont p {
+    font-size: 16px;
+  }
+
+  .our-solar-step-block .our-solar-step .step-content {
+    padding-left: 0;
+  }
+  .project-details .project-digit {
+    font-size: 24px;
+  }
+  .invest-pro-inner table {
+    width: 100%;
+  }
+  .invest-pro-inner table tbody td {
+    font-size: 17px;
+    padding: 16px 15px;
+  }
+  .invest-pro-inner table thead tr td {
+    font-size: 18px;
+  }
+  .invest-inner .process-list p {
+    padding: 0px;
+  }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1024px) {
+  header .header-top nav.menu-act ul li a {
+    font-size: 15px;
+  }
+  nav.menu-act ul li,
+  header.fixed nav.menu-act ul li {
+    padding: 28px 0 0 26px;
+  }
+  nav.menu-act ul li.last-btn.login-m,
+  nav.menu-act li.last-btn {
+    padding-top: 19px !important;
+  }
+
+  nav.menu-act a.button {
+    padding: 0 10px;
+  }
+  body.inner-page.aboutus section.inner.banner-section .caption {
+    padding-right: 150px;
+  }
+  .who-we-are-block .who-we-are.left::after {
+    left: 20px;
+    height: calc(100% + 65px);
+    top: -86px;
+    background-position-x: -39px;
+  }
+  .mission-main .caption-main p {
+    font-size: 15px;
+  }
+  section.home-banner .home-banner-caption h2 span {
+    font-size: 47px;
+  }
+  section.home-banner .home-banner-caption h2 {
+    font-size: 44px !important;
+  }
+  section.home-banner .home-banner-caption h2 strong {
+    font-size: 65px;
+  }
+  .installations-main .installations-blocks {
+    padding: 0 7px 45px;
+  }
+  .solar-installations .installations-main {
+    margin: 0 -7px -45px;
+  }
+  .installations-main .invest-item-main .invest-contentbox h3 {
+    white-space: nowrap;
+  }
+  .invest-pro-inner table {
+    width: 93%;
+  }
+}
+
+/*-tablet-view*/
+
+@media screen and (min-width: 768px) and (max-width: 999px) {
+  .header-top {
+    padding: 10px 0 0;
+  }
+  header.fixed .header-top nav.menu-act ul li a {
+    padding-bottom: 17px;
+  }
+  nav.menu-act ul li a {
+    padding: 0 0 20px;
+  }
+  .footer-top .container > div {
+    padding-right: 8%;
+  }
+  .footer-top .container > div.first-col {
+    padding-left: 7%;
+    width: 36%;
+  }
+  .footer-top .container > div.second-col,
+  .footer-top .container > div.third-col {
+    padding-right: 6%;
+    width: 32%;
+  }
+  .footer-top .container > div.fourth-col {
+    margin-top: 20px;
+    padding-left: 7%;
+    width: 50%;
+  }
+  .footer-top .container > div.fifth-col {
+    margin-top: 20px;
+    padding-left: 6%;
+    padding-right: 6%;
+    width: 50%;
+  }
+  .who-we-are.left > ul li:nth-child(2n) {
+    margin-right: -25px;
+  }
+  .who-we-are-block .who-we-are.left::after {
+    background-size: 100% auto;
+    height: 350px;
+    left: 0;
+    width: 350px;
+  }
+  .who-we-are.left > ul li {
+    width: 185px;
+  }
+  .who-we-are.left > ul li:nth-child(3n) {
+    margin-right: -30px;
+  }
+  .howitwork .how-it-works-bg .how-it-step > div.step-content p {
+    font-size: 20px;
+  }
+  .howitwork .how-it-step > div.step-content strong {
+    font-size: 50px;
+  }
+  .how-it-step-bottom li {
+    width: 47%;
+    max-width: 338px;
+    margin: 0 15px 25px;
+  }
+  section.how-it-works-last.section-gapping .btn-wrap {
+    margin-top: 10px;
+  }
+  body.inner-page.howitwork,
+  body.inner-page.howitwork {
+    background-size: 150% 1050px;
+    background-position: center 0;
+  }
+  .slider-for .draggable {
+    padding: 20px 20px 20px 30px;
+  }
+  .feature-tabpanels
+    .featuredItem
+    .product-content
+    .item-btn.btn-wrap
+    a.button {
+    font-size: 16px;
+    padding: 0 15px;
+    line-height: 51px;
+  }
+  .feature-tabpanels .featuredItem .product-content img {
+    margin-top: 5px;
+  }
+  .feature-tabpanels .featuredItem .product-content {
+    /* width: 55%; */
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .feature-tabpanels .featuredItem .product-image {
+    /* width: 44%; */
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .invest-inner .process-list .pro-img {
+    width: 127px;
+    height: 127px;
+    background-position: 18px 34px;
+  }
+  .invest-inner .process-list:nth-child(2) .pro-img {
+    background-position: 22px -121px;
+  }
+  .invest-inner .process-list:nth-child(3) .pro-img {
+    background-position: 29px -276px;
+  }
+  .invest-inner .process-list:nth-child(4) .pro-img {
+    background-position: 28px -431px;
+  }
+  .invest-inner .process-list:nth-child(5) .pro-img {
+    background-position: 28px -492px;
+    background-size: 270%;
+  }
+  .invest-process::before {
+    top: 12px;
+  }
+  .invest-inner .process-list p {
+    font-size: 13px;
+  }
+  .process-item h4 {
+    margin: 15px auto 5px;
+    font-size: 18px;
+  }
+
+  /*-------------------------*/
+  .faq-tab li a {
+    padding: 9px 5px;
+    font-size: 13px;
+  }
+  body.inner-page.aboutus {
+    background-size: 150% 650px;
+  }
+
+  /*-------------aboutus-----------*/
+
+  .mission-main .mission-right,
+  .mission-main .mission-left {
+    width: 100%;
+    max-width: 100%;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+  }
+  .mission-main .mis-img {
+    width: 25%;
+  }
+  .mission-main .caption-main {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding: 15px 6px 0;
+    margin: 0;
+  }
+  .mission-main {
+    position: relative;
+    padding-top: 70px;
+  }
+  .mission-main .caption-main h2 {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    text-align: center;
+  }
+  .mission-main .caption-main {
+    position: unset;
+  }
+  body.inner-page.aboutus .our-mission-bg {
+    padding: 45px 30px 45px;
+  }
+  .mission-main .caption-main h2:after {
+    margin: auto;
+  }
+  .mission-main .caption-main p {
+    font-size: 16px;
+  }
+  .our-detail .detail-section .detail-item,
+  .company-value .value-section .value-item {
+    padding: 0 10px;
+  }
+  .our-detail .detail-section {
+    margin: 0 -10px 45px;
+  }
+  .company-value .value-section {
+    margin: 0 -10px 0px;
+  }
+
+  .timeline-section .timeline-main {
+    padding-bottom: 45px;
+  }
+  .our-detail .detail-section .detail-item .detail-cont p {
+    font-size: 18px;
+  }
+  .simple-text p {
+    padding: 4px 30px;
+    font-size: 16px;
+  }
+  .simple-text {
+    width: 60%;
+    padding-left: 35px;
+  }
+  .simple-img {
+    width: 40%;
+    align-self: center;
+  }
+  .our-detail .detail-section .detail-item .detail-cont {
+    padding: 45px 15px;
+  }
+  .simple-textimg a.button {
+    margin-top: 45px;
+  }
+  .company-value {
+    padding: 45px 0 45px;
+  }
+  .company-value .value-section .value-item .value-cont p {
+    font-size: 16px;
+  }
+  .company-value .value-section .value-item .value-cont h4 {
+    font-size: 20px;
+  }
+  .company-value .value-section .value-item .value-cont {
+    padding: 0px 10px 30px;
+  }
+  .meet-our.our-mission-section .mis-img a {
+    padding: 8px;
+  }
+  .meet-our.our-mission-section .mission-main .mis-img a span {
+    font-size: 16px;
+  }
+  .meet-our.our-mission-section .mission-main .mis-img a p {
+    font-size: 10px;
+    padding: 0;
+    padding-top: 4px;
+  }
+  .solar-capacity .soalar-capacity-cont p {
+    font-size: 16px;
+  }
+  .solar-capacity .soalar-capacity-cont {
+    padding: 0 15px 45px;
+  }
+  .solar-capacity .soalar-capacity-cont h3 {
+    font-size: 24px;
+  }
+  .solar-capacity .solar-btn a.button {
+    margin-top: 0;
+  }
+  body.inner-page.aboutus section.inner.banner-section .caption {
+    height: 232px;
+  }
+  .installations-main .installations-blocks {
+    width: 50%;
+    max-width: 50%;
+    flex: 0 0 50%;
+    padding: 0 20px 45px;
+  }
+  .solar-installations .installations-main {
+    margin: 0 -20px -45px;
+  }
+  section.inner.banner-section .caption h1 {
+    font-size: 50px;
+  }
+  section.inner.banner-section .caption p {
+    font-size: 16px;
+  }
+  section.home-banner .calculator-main {
+    width: 350px;
+    border-radius: 10px;
+    padding: 30px 20px 34px;
+    text-align: center;
+  }
+  section.home-banner .home-banner-caption h2 span {
+    font-size: 32px;
+  }
+  section.home-banner .home-banner-caption h2 strong {
+    font-size: 45px;
+  }
+  section.home-banner .home-banner-caption h2 {
+    font-size: 48px !important;
+  }
+  section.banner-section.home-banner .container,
+  section.banner-section.home-banner {
+    min-height: unset;
+  }
+  section.home-banner .home-banner-caption {
+    padding-top: 100px;
+  }
+  section.home-banner .caption {
+    height: unset;
+    position: static;
+  }
+  .founder-detail {
+    max-width: 100%;
+  }
+  .signup-getstarted .signup-form-wrap,
+  .signup-getstarted .signup-img-wrap {
+    padding: 20px;
+  }
+  .signup-getstarted .get-started-block .content-left {
+    float: left;
+    padding-right: 15px;
+  }
+  .signup-getstarted .get-started-block .content-right {
+    padding-left: 20px;
+  }
+  body .signup-getstarted h2.title-left {
+    font-size: 24px;
+  }
+}
+/*-mobile-view*/
+
+@media (max-width: 767px) {
+  html body {
+    padding-top: 82px;
+  }
+  header {
+    position: fixed;
+    z-index: 1000;
+  }
+  header.fixed .header-top {
+    padding: 10px 0;
+  }
+  header.fixed .left.logo img {
+    width: auto;
+    padding: 0;
+  }
+  .questions {
+    margin: 0;
+    padding: 10px;
+    font-size: 16px;
+  }
+  .how-it-works-bg.faqs .ui-accordion .ui-accordion-header {
+    text-align: left;
+    font-size: 15px;
+  }
+
+  .how-it-works-bg.faqs .MuiBox-root {
+    padding: 0;
+  }
+
+  .contact-bg {
+    padding: 40px 10px 40px;
+    min-height: 950px;
+    margin-top: -100px;
+  }
+
+  .header-top {
+    padding: 15px 0;
+  }
+  .left.logo {
+    width: 210px;
+  }
+  section.banner-section .caption h2 {
+    font-size: 24px;
+  }
+  body h2 {
+    font-size: 23px;
+    text-align: center;
+  }
+  section.banner-section .container,
+  section.banner-section {
+    height: 100%;
+    min-height: 350px;
+  }
+  section.banner-section .caption {
+    right: 15px;
+    height: 235px;
+    max-width: 100%;
+  }
+  .how-it-works-bg {
+    padding: 30px 15px;
+    box-shadow: -10px 10px 15px rgba(0, 0, 0, 0.075);
+  }
+  section.who-we-are-section.section-gapping {
+    padding-top: 30px;
+  }
+  .who-we-are-section .who-we-are-block .who-we-are.left > ul li:first-child {
+    display: table;
+    margin: 0 auto -20px;
+  }
+  .who-we-are-block .who-we-are.right h2 {
+    margin: 0 auto 15px;
+  }
+  form input,
+  form textarea {
+    height: 50px;
+  }
+  form#amountform > span {
+    font-size: 22px;
+  }
+  .mobile-img-hide,
+  .how-it-step > div:first-child::after,
+  .how-it-works-bg .how-it-step:nth-child(2n) > div:first-child::before,
+  .how-it-step > div.step-content strong::after,
+  .who-we-are-block .who-we-are.left::after,
+  .who-we-are-block .who-we-are .small-logo {
+    display: none !important;
+  }
+  .images-step.mobile-img {
+    display: block;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .how-it-works-bg .how-it-step > div.step-content {
+    padding-left: 0;
+  }
+  body h3 {
+    font-size: 20px;
+  }
+  .how-it-step > div.step-content strong {
+    font-size: 42px;
+    margin: 0 auto;
+  }
+  .how-it-step > div:first-child {
+    background: none;
+  }
+  .how-it-works-bg .how-it-step:nth-child(2n) > div:first-child {
+    border-radius: 0;
+    padding-left: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+  }
+  .how-it-works-bg .how-it-step h3 {
+    margin: 10px auto 10px;
+    text-align: center;
+  }
+  section .btn-wrap {
+    margin: 10px auto 15px;
+  }
+  .section-gapping {
+    padding: 40px 0;
+  }
+  .who-we-are-block .who-we-are,
+  body .who-we-are-block .who-we-are.right {
+    width: 100%;
+    position: relative;
+    background: none;
+    padding: 0;
+    margin-top: 0px;
+  }
+  section.our-solar-section.section-gapping {
+    padding-top: 10px;
+  }
+  .who-we-are.left > ul {
+    padding-right: 0;
+    text-align: center;
+  }
+  .who-we-are-section .who-we-are-block .who-we-are.left > ul li {
+    float: none;
+    display: inline-block;
+    margin: 0px -5px 0;
+    width: 180px;
+  }
+  .who-we-are.left > ul li span {
+    padding: 57px 24px;
+  }
+  .our-solar-step-block .our-solar-step {
+    margin: 30px 0 0;
+  }
+  .our-solar-step-block .our-solar-step:first-child {
+    margin: 0;
+  }
+  .our-solar-section .our-solar-step-block .our-solar-step > div {
+    display: block;
+    width: 100%;
+    padding: 0;
+    text-align: center;
+  }
+  .our-solar-step-block .our-solar-step h3 {
+    margin: 10px auto 15px;
+  }
+  .our-solar-step-block {
+    padding-bottom: 20px;
+  }
+  .our-dashboard-block {
+    padding: 30px 0;
+  }
+  .our-dashboard-block .step-content {
+    margin: 0;
+    width: 100%;
+  }
+  .our-dashboard-block .images-step {
+    width: 100%;
+    margin-top: 15px;
+  }
+  section.get-started-section.section-gapping {
+    padding-top: 10px;
+  }
+  .get-started-block .content-left {
+    padding: 0;
+    width: 100%;
+  }
+  .get-started-block .content-right {
+    width: 100%;
+    background: none;
+    padding: 0;
+    margin-top: 30px;
+  }
+  .contact-block .content-left {
+    padding: 0;
+    width: 100%;
+  }
+  .contact-block .content-right {
+    width: 100%;
+    background: none;
+    padding: 0;
+    margin-top: 30px;
+  }
+  body .ui-accordion .ui-accordion-header {
+    height: auto;
+  }
+  section .container form .field {
+    width: 100%;
+  }
+  section.inouiry-section {
+    padding-top: 40px;
+  }
+  section.inouiry-section .inouiry-wrap {
+    padding: 0 10px;
+  }
+  footer#footer {
+    margin-top: -70px;
+    padding-top: 120px;
+  }
+  footer#contact-footer {
+    /* margin-top: -170px; */
+    padding-top: 20px;
+  }
+  /* .fourth-col ul li p {
+    text-align: left;
+    padding-top: 10px;
+} */
+  footer#footer .footer-top .container > div {
+    padding-right: 0;
+    width: 100%;
+    margin-top: 30px;
+  }
+  footer#contact-footer .footer-top .container > div {
+    padding-right: 0;
+    width: 100%;
+    margin-top: 30px;
+  }
+  footer#contact-footer .footer-top .container > div.second-col {
+    display: none;
+  }
+  footer#contact-footer .footer-top .container > div {
+    padding-right: 0;
+    width: 100%;
+    margin-top: 30px;
+  }
+  /* footer#contact-footer .footer-top .container > div.fifth-col {
+    margin-top: 15px;
+  } */
+  ul.social-icon {
+    text-align: left;
+  }
+  nav.menu-act ul li,
+  header.fixed nav.menu-act ul li {
+    margin: 0;
+    float: none;
+    display: block;
+    padding: 0;
+  }
+  header.fixed nav.menu-act li.last-btn.login-m {
+    padding: 0 !important;
+  }
+  nav.menu-act li.last-btn {
+  }
+  header .header-top nav.menu-act ul li a,
+  header.fixed .header-top nav.menu-act ul li a {
+    padding-bottom: 0;
+    float: none;
+    display: block;
+    color: #333;
+    text-align: left;
+    padding: 14px 20px;
+    border-bottom: 1px solid #ccc;
+  }
+  nav.menu-act ul li:last-child a {
+    border-bottom: 0 !important;
+  }
+  header .header-top nav.menu-act ul li a:hover,
+  header.fixed .header-top nav.menu-act ul li.active a {
+    color: #fab115;
+    border-bottom-color: #fab115;
+  }
+  .show-menu nav.menu-act {
+    overflow-y: scroll;
+  }
+  nav.menu-act ul {
+    margin-bottom: 25px;
+  }
+
+  html.show-menu {
+    overflow: hidden;
+  }
+  nav.menu-act ul li a {
+    padding: 0 0 10px 0;
+  }
+  body h2.title-left {
+    margin: 0 auto 30px;
+  }
+  body h2.title-left::after {
+    margin: 0 auto;
+  }
+  .inouiry-wrap .contact-form .field.clear-left {
+    width: 55%;
+    margin-bottom: 14px;
+  }
+  .inouiry-wrap .contact-form .field.clear-left + .field {
+    float: left;
+    width: auto;
+    margin-left: 15px;
+  }
+  .inouiry-wrap .contact-form .form-submit-btn {
+    margin: 0px auto 25px;
+  }
+  .how-it-works-bg .how-it-step:last-child .images-step {
+    padding-top: 10px;
+  }
+  .how-it-works-bg > h2 {
+    margin-bottom: 40px;
+  }
+  .fourth-col ul li p {
+    text-align: left;
+    padding-top: 10px;
+  }
+  .inouiry-wrap .contact-form div#response {
+    margin-bottom: 20px;
+  }
+  /************==FAQS=**********************/
+  .how-it-works-bg.faqs {
+    padding: 30px 15px 0px;
+    margin-bottom: -10px;
+  }
+  .how-it-works-bg.faqs .submit-btn-wrap {
+    margin-top: 25px;
+  }
+  section.inner.banner-section .container,
+  section.inner.banner-section {
+    min-height: 250px;
+  }
+  section.inner.banner-section .caption h1 {
+    font-size: 30px;
+  }
+  section.inner.banner-section .caption {
+    height: 200px;
+    max-width: 100%;
+  }
+  #myBtn {
+    bottom: 70px;
+  }
+  body.inner-page.howitwork .how-it-works-bg {
+    text-align: center;
+  }
+  .howitwork .how-it-works-bg .how-it-step > div.step-content {
+    padding-left: 0;
+  }
+  .howitwork
+    .how-it-works-bg
+    .how-it-step
+    div.step-content
+    .images-step.mobile-img {
+    width: auto;
+    max-width: 290px;
+    display: table;
+    margin: 0 auto 20px;
+    float: none;
+    padding: 0;
+    background-image: none;
+  }
+  body.inner-page.howitwork .how-it-works-bg .how-it-step-block {
+    margin-bottom: 0;
+  }
+  .howitwork .how-it-works-bg .how-it-step > div.step-content p {
+    font-size: 20px;
+    text-align: center;
+  }
+  body.inner-page.howitwork {
+    background-size: 150% 650px;
+    background-position: center 0;
+  }
+  .footer-bottom .container > p {
+    padding: 20px 5px;
+    font-size: 13px;
+  }
+  footer#footer .footer-top .container > div.second-col {
+    display: none;
+  }
+  .fourth-col ul li a,
+  .fourth-col ul li p,
+  .footer-top ul.menu-link li a {
+    font-size: 15px;
+  }
+  .footer-top .container > div h5 {
+    font-size: 18px;
+    margin: 0 0 25px;
+    padding-bottom: 5px;
+  }
+  footer#footer .footer-top .container > div.fifth-col {
+    margin-top: 15px;
+  }
+
+  .slider-for .draggable {
+    padding: 10px 10px;
+  }
+  .feature-tabpanels .MuiBox-root {
+    padding: 80px 10px;
+  }
+  .feature-tabpanels .featuredItem .product-content,
+  .feature-tabpanels .featuredItem .product-image {
+    width: 100%;
+    text-align: center;
+  }
+  .feature-tabpanels .featuredItem .product-content h4 {
+    display: table;
+    margin: 20px auto 10px;
+    font-size: 22px;
+  }
+  .feature-tabpanels .featuredItem .product-content img {
+    /* margin-top: 10px; */
+  }
+  .feature-tabpanels .featuredItem .product-content p {
+    font-size: 16px;
+    text-align: center;
+  }
+  .feature-tabpanels .featuredItem .product-content .item-btn.btn-wrap {
+    margin: 20px auto 40px;
+  }
+  .feature-tabpanels
+    .featuredItem
+    .product-content
+    .item-btn.btn-wrap
+    a.button {
+    font-size: 14px;
+    padding: 0 10px;
+  }
+  .howitwork section.synced-cloud-wrap {
+    margin-bottom: 10px;
+  }
+  .how-it-works-last .how-it-step-bottom li {
+    float: none;
+    max-width: 280px;
+    margin: 0 auto 25px;
+  }
+  .slick-slider.slider-nav .slick-arrow {
+    left: 0px;
+    padding: 0 !important;
+    z-index: 15;
+    bottom: 45px;
+  }
+  .slick-slider.slider-nav .slick-arrow.slick-next {
+    right: 0px;
+  }
+  .feature-tabpanels .featuredItem .product-content img {
+    display: table;
+  }
+  .feature-tabs .MuiTab-wrapper .item {
+    padding: 0 10px;
+    text-align: center;
+  }
+  .feature-tabs .MuiTab-wrapper .item .content-img {
+    display: inline-block;
+    padding-top: 15px;
+  }
+  nav.menu-act li.last-btn {
+    padding: 0 !important;
+  }
+  nav.menu-act li.last-btn a {
+    padding: 0 20px !important;
+    border-radius: 0;
+    color: #fff !important;
+  }
+  nav.menu-act li.last-btn a:hover {
+    border-color: transparent !important;
+  }
+  .show-menu body:after {
+    content: '';
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 0;
+    z-index: 999;
+  }
+  /*----------------how it work-----------*/
+
+  .invest-process::before {
+    display: none;
+  }
+  .invest-inner .process-list {
+    width: 100%;
+  }
+  .invest-inner .process-list {
+    margin-top: 30px !important;
+  }
+  .invest-inner {
+    padding-top: 0;
+  }
+  .invest-process,
+  .invest-product {
+    padding-bottom: 40px;
+    padding-top: 40px;
+  }
+  section.how-it-works-last.section-gapping {
+    padding-bottom: 0;
+  }
+  section.how-it-works-last .btn-wrap {
+    margin-bottom: 0;
+  }
+  .howitwork .how-it-works-bg .how-it-step > div.step-content p {
+    font-size: 16px;
+  }
+  .how-it-works-bg .how-it-step img {
+    max-width: 90%;
+  }
+
+  /*---------------------faq----------------------*/
+
+  .faq-tab li {
+    margin-bottom: 10px;
+  }
+  .faq-tab {
+    padding-bottom: 0;
+  }
+  .how-it-works-bg.faqs .ui-accordion .ui-accordion-header {
+    text-align: left;
+    font-size: 15px;
+  }
+  .faq-tab li a {
+    font-size: 15px;
+  }
+  body .how-it-works-bg.faqs .ui-accordion .ui-accordion-content p {
+    font-size: 14px;
+  }
+  body .how-it-works-bg.faqs .ui-accordion .ui-accordion-content p {
+    line-height: 160%;
+  }
+  nav.menu-act a.button.login {
+    color: #1856a5 !important;
+    border: 0;
+  }
+  /*------------------------about-us-------------------------*/
+  .solar-capacity .solar-capacity-blocks {
+    margin: 0;
+  }
+  .solar-capacity .solar-capacity-blocks .solar-capacity-item {
+    width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+    padding: 0 10px 50px;
+  }
+  .solar-capacity .soalar-capacity-cont {
+    padding: 0 15px 25px;
+  }
+  .solar-capacity .solar-capacity-blocks .solar-capacity-item a.button {
+    font-size: 15px;
+  }
+  .solar-capacity .soalar-capacity-cont h3 {
+    font-size: 22px;
+  }
+  .solar-capacity .soalar-capacity-cont p {
+    font-size: 16px;
+  }
+  .solar-capacity .solar-capacity-blocks .solar-capacity-item a.button {
+    box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.08);
+  }
+  .our-detail .detail-section .detail-item {
+    width: 100%;
+    max-width: 100%;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    padding: 15px 0px;
+  }
+  .our-detail .detail-section .detail-item {
+    padding-top: 0;
+  }
+  .our-detail .detail-section .detail-item .detail-cont p {
+    font-size: 18px;
+  }
+  .our-detail .detail-section .detail-item .detail-cont {
+    padding: 40px 15px;
+  }
+  .our-detail .detail-section {
+    margin: 0 -0px 40px;
+  }
+  .our-detail .detail-section .detail-item .detail-icon {
+    transform: scale(0.8) translateY(-40px);
+    margin-bottom: -17px;
+  }
+  .simple-img {
+    width: 100%;
+    text-align: center;
+  }
+  .simple-text {
+    width: 100%;
+    padding-left: 0;
+  }
+  .simple-text p {
+    font-size: 16px;
+    color: #000;
+    line-height: 160%;
+    margin: 0;
+    margin-bottom: 0px;
+    padding: 15px 0 0;
+    border-left: 0;
+  }
+  .simple-textimg a.button,
+  .our-solar-step-block .our-solar-step .step-content > a {
+    margin-top: 20px;
+    font-size: 15px;
+    line-height: 40px;
+    height: 40px;
+  }
+  .our-solar-step-block .our-solar-step .step-content > a {
+    margin-top: 0;
+  }
+  a.button,
+  .button,
+  button,
+  .inouiry-wrap .contact-form input.submit-btn {
+    font-size: 15px;
+    line-height: 40px;
+    height: 40px;
+    min-width: 140px;
+    padding: 0 25px !important;
+  }
+  .company-value .value-section {
+    margin: 0;
+  }
+  .company-value .value-section .value-item {
+    padding: 0 0 70px;
+    width: 100%;
+    max-width: 100%;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+  }
+  .company-value .value-section .value-item:last-child,
+  .our-detail .detail-section .detail-item:last-child {
+    padding-bottom: 0;
+  }
+  .company-value {
+    padding: 40px 0;
+  }
+  .company-value .value-section .value-item .value-cont p {
+    font-size: 16px;
+  }
+  .mission-main .mission-left,
+  .mission-main .mission-right {
+    width: 100%;
+    max-width: 100%;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+  }
+  .meet-our.our-mission-section .mis-img a {
+    padding: 8px;
+  }
+  .meet-our.our-mission-section .mission-main .mis-img a span {
+    font-size: 16px;
+  }
+  .meet-our.our-mission-section .mission-main .mis-img a p {
+    font-size: 15px;
+    padding: 0;
+  }
+
+  .mission-main .caption-main {
+    background-color: #fff;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    padding: 20px 4px 40px;
+    margin-left: 0;
+    position: relative;
+    z-index: 2;
+  }
+  .mission-main .cap {
+    font-size: 16px;
+  }
+  .mission-main .caption-main h2,
+  .timeline-section .timeline-block .time-caption h5 {
+    font-size: 24px;
+  }
+
+  .timeline-section .timeline-block .time-caption h5 {
+    visibility: collapse;
+  }
+
+  .timeline-section .timeline-block .time-caption p {
+    font-size: 14px;
+  }
+  .our-mission-bg {
+    padding: 40px 10px 40px;
+  }
+  .mission-main .caption-main {
+    padding: 20px 4px 0px;
+  }
+  section.inner.banner-section .caption p {
+    font-size: 16px;
+  }
+  .mission-main .caption-main h2 {
+    width: 100%;
+  }
+  .mission-main .caption-main h2:after {
+    margin: auto;
+  }
+  .mission-main .caption-main p {
+    font-size: 16px;
+  }
+  .simple-textimg a.button {
+    padding: 0 20px;
+  }
+  section.inouiry-section h2 + span {
+    font-size: 15px;
+    margin: 25px auto;
+  }
+  body.inner-page.howitwork.aboutus section.inner.banner-section,
+  body.inner-page.howitwork.aboutus section.inner.banner-section .container {
+    min-height: 280px;
+  }
+  body.inner-page.aboutus section.inner.banner-section .caption {
+    height: 215px;
+  }
+  nav.menu-act .close-button {
+    width: 35px;
+    height: 35px;
+    line-height: 32px;
+    float: right;
+    margin: -52px 19px 30px;
+    color: #333;
+    border: 1px solid #333;
+    padding: 0;
+    font-size: 20px;
+    font-weight: normal;
+    border-radius: 0;
+  }
+  .show-menu .header-top {
+    pointer-events: none;
+  }
+  .show-menu .header-top .right {
+    pointer-events: visible;
+  }
+  .meet-our {
+    padding-top: 0;
+  }
+  /*------------------------home-------------------------*/
+
+  .home-page-work .how-it-header {
+    font-size: 17px;
+    padding: 20px 0;
+  }
+  .home-page-work .how-it-works-bg {
+    padding: 30px;
+    margin-bottom: 40px;
+  }
+  .home-page-work .how-it-step:first-child .step-content h3::before,
+  .home-page-work
+    .how-it-works-bg
+    .how-it-step:first-child
+    .images-step::before,
+  .home-page-work .how-it-works-bg .how-it-step:first-child .images-step::after,
+  .home-page-work
+    .how-it-works-bg
+    .how-it-step:nth-child(3)
+    .images-step::after,
+  .home-page-work div.step-content h3::after {
+    display: none;
+  }
+  .home-page-work .how-it-step > div.step-content strong {
+    position: initial;
+  }
+  .invest-with .investwith-detail .in-with-list {
+    width: 100%;
+    max-width: 100%;
+    flex: 100%;
+    padding: 0 0px;
+  }
+  .invest-with .investwith-detail {
+    margin: 0;
+    padding-top: 15px;
+  }
+  .invest-with .invest-contentbox h3 br {
+    display: none;
+  }
+  .invest-with .invest-contentbox h3 {
+    font-size: 22px;
+  }
+  .invest-contentbox {
+    padding: 25px 12px;
+    margin: 0;
+    width: 100%;
+    box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 0;
+  }
+  .invest-with .invest-item-main::after {
+    display: none;
+  }
+  .invest-item-main img {
+    border-radius: 0;
+  }
+  .invest-with .invest-contentbox p {
+    font-size: 16px;
+  }
+  .invest-with .investwith-detail .in-with-list {
+    margin-bottom: 30px;
+  }
+  .invest-item-main::after {
+    box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.06);
+  }
+  body .who-we-are-block .who-we-are.right {
+    margin-top: 10px;
+    text-align: center;
+    padding-bottom: 40px;
+  }
+  .who-we-are-block .who-we-are.right p {
+    text-align: center;
+  }
+  .our-solar-step-block .our-solar-step h3 {
+    text-align: center;
+  }
+  .our-solar-step-block .our-solar-step h3 a {
+    font-size: 18px;
+  }
+  .images-step.mobile-img {
+    width: 100%;
+    margin: 0;
+  }
+  .home-page-work .how-it-works-bg .how-it-step h3 br {
+    display: none;
+  }
+  .home-page-work .how-it-works-bg .how-it-step p {
+    text-align: center;
+    padding-top: 10px;
+  }
+  .our-solar-step-block .our-solar-step p {
+    text-align: center;
+  }
+  .monitor-investment .our-dashboard-block .step-content {
+    text-align: center;
+  }
+  .monitor-investment .our-dashboard-block .step-content p {
+    text-align: center;
+  }
+  .monitor-investment .images-step.mobile-img {
+    margin-bottom: 15px;
+  }
+  .monitor-investment .our-dashboard-block {
+    padding-top: 0;
+  }
+  .get-started-block .content-right {
+    text-align: center;
+  }
+  div#accordion {
+    text-align: left;
+  }
+  .get-started-block .content-left > strong {
+    font-size: 18px;
+  }
+  .our-solar-step-block .our-solar-step h3 {
+    display: none;
+  }
+  .home-page-work .how-it-works-bg > h2 {
+    margin-bottom: 15px;
+  }
+  .invest-item-main {
+    text-align: center;
+  }
+  .our-solar-step-block .our-solar-step div.images-step.mobile-img::before {
+    content: '';
+    position: absolute;
+    right: 0;
+    top: -36px;
+    width: 55px;
+    height: 55px;
+    background: url(../images/sprite.png) no-repeat;
+    background-position: -306px 0;
+  }
+  .our-solar-step-block .our-solar-step div.images-step.mobile-img::after {
+    background: #fff;
+    border-radius: 10px 17px 10px 15px;
+    top: -7px;
+    content: '';
+    left: 39px;
+    position: absolute;
+    right: 17px;
+    z-index: -1;
+    bottom: 10px;
+    border: 4px solid #fbb116;
+    border-left: 0;
+    border-bottom: 0;
+  }
+  .our-solar-step-block .our-solar-step div.images-step.mobile-img {
+    position: relative;
+    padding: 0 25px;
+  }
+  .our-solar-step-block .our-solar-step div.images-step.mobile-img img {
+    width: 100%;
+  }
+  .button.wrap-input input {
+    height: 40px;
+  }
+  .footer-logo {
+    display: none;
+  }
+  .solar-installations .how-it-works-bg {
+    padding: 20px 20px 40px;
+  }
+  .installations-main .installations-blocks {
+    width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+    padding: 0 0px 30px;
+    z-index: 0;
+  }
+  .solar-installations .installations-main {
+    margin: 0 0 -30px;
+  }
+  .installations-main .invest-item-main img {
+    border-radius: 10px;
+  }
+  .installations-main .invest-item-main .invest-contentbox h3 {
+    font-size: 20px;
+    min-height: auto;
+    display: block;
+  }
+  .installations-main .invest-item-main .invest-contentbox p {
+    font-size: 14px;
+  }
+  .solar-installations .how-it-works-bg > h2 {
+    margin-bottom: 30px;
+  }
+  .installations-main .invest-item-main a.button {
+    font-size: 15px;
+    line-height: 40px;
+    height: 40px;
+    min-width: 140px;
+    padding: 0 25px !important;
+  }
+
+  /*------------home-banner--------------------*/
+  section.home-banner .home-banner-caption h2 {
+    font-size: 30px !important;
+    text-align: left;
+    margin-left: 0;
+  }
+  section.home-banner .home-banner-caption h2 strong {
+    font-size: 45px;
+  }
+  section.home-banner .home-banner-caption h2 span {
+    font-size: 35px;
+  }
+  section.home-banner .home-banner-caption {
+    padding-top: 60px;
+  }
+  section.home-banner .calculator-main {
+    padding: 25px 25px 29px;
+    width: 100%;
+  }
+  section.home-banner .calculator-main .star-now-btn a {
+    font-size: 15px;
+    line-height: 40px;
+    height: 40px;
+    min-width: 140px;
+    padding: 0 25px !important;
+  }
+  section.home-banner .calculator-main .cal-feild-2,
+  section.home-banner .calculator-main .cal-feild-1 {
+    padding: 13px 0 15px;
+  }
+  section.home-banner .caption {
+    height: auto;
+    margin: 0;
+    display: block;
+    position: unset;
+    padding: 0 0px 40px;
+  }
+  section.banner-section.home-banner .container,
+  section.banner-section.home-banner {
+    min-height: unset;
+    display: block;
+  }
+  section.home-banner .calculator-main h3 {
+    font-size: 35px;
+  }
+  .signup-getstarted .get-started-block .content-left {
+    width: 100%;
+    padding-right: 0;
+  }
+  .signup-getstarted .get-started-block .content-right {
+    padding-left: 0;
+    width: 100%;
+  }
+  .signup-getstarted .signup-form-wrap,
+  .signup-getstarted .signup-img-wrap {
+    padding: 15px;
+  }
+  .signup-getstarted p {
+    font-size: 14px !important;
+    text-align: center !important;
+  }
+  body .signup-getstarted h2.title-left {
+    font-size: 24px;
+  }
+  .next-btn a,
+  .prv-btn a {
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    min-width: 120px;
+  }
+  .signup-steps-wrap {
+    padding: 0 0px 30px;
+  }
+  .chooseimg {
+    text-align: center;
+  }
+  .finish-wrap {
+    min-height: 300px;
+  }
+
+  .our-project-table {
+    display: block;
+    margin: 20px auto;
+    width: 100%;
+    clear: both;
+  }
+  .our-project-table .project-details {
+    width: 49%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .project-details .project-text {
+    font-size: 18px;
+  }
+  .project-details .project-digit {
+    font-size: 22px;
+  }
+  .invest-pro-inner {
+    overflow-x: auto;
+    width: 100%;
+  }
+  .invest-pro-inner table {
+    width: 100%;
+    margin: 15px auto 0;
+  }
+  .invest-pro-inner table tbody td {
+    font-size: 16px;
+    padding: 11px 12px;
+  }
+  .invest-pro-inner table thead tr td {
+    font-size: 18px;
+    padding: 8px;
+  }
+  .invest-pro-inner table tbody tr:nth-child(2n) td {
+    padding: 16px 12px;
+  }
+  .invest-pro-inner table tbody tr td:first-child {
+    white-space: normal;
+  }
+  .invest-inner .process-list p {
+    padding: 0px;
+  }
+  .invest-pro-inner table tbody td.right-mark {
+    background-size: 15px auto;
+  }
+  .how-it-works-bg .how-it-step {
+    margin-bottom: 20px;
+  }
+  .synced-cloud-bg {
+    margin-top: 40px;
+  }
+}
+
+/*-mobile-view*/
+@media screen and (min-width: 667px) and (max-width: 767px) {
+  .faq-tab li a {
+    font-size: 12px;
+    padding: 9px 3px;
+  }
+  .faq-tab li {
+    margin-bottom: 10px;
+  }
+  body .how-it-works-bg.faqs .ui-accordion .ui-accordion-content p {
+    font-size: 16px;
+  }
+}
+@media screen and (min-width: 568px) and (max-width: 767px) {
+  .images-step.mobile-img {
+    margin-bottom: 20px;
+    text-align: center;
+    float: left;
+    display: inline-block;
+  }
+  .who-we-are-block .who-we-are.left::after,
+  .who-we-are-block .who-we-are .small-logo {
+    display: block !important;
+  }
+  .who-we-are-section .who-we-are-block .who-we-are.left > ul li:first-child {
+    margin: -50px auto 0;
+    display: table;
+    width: auto;
+  }
+  .who-we-are-section .who-we-are-block .who-we-are.left > ul li:nth-child(2n),
+  .who-we-are-section .who-we-are-block .who-we-are.left > ul li:nth-child(3n) {
+    margin-top: 105px;
+    width: 220px;
+  }
+  body .who-we-are-block .who-we-are.left::after {
+    top: -9px;
+    background-position-x: -10px;
+  }
+  .who-we-are-block .who-we-are .small-logo {
+    right: 0;
+    bottom: 0;
+  }
+  .who-we-are-block .who-we-are.left {
+    max-width: 500px;
+    margin: 70px auto 0;
+    float: none;
+  }
+  body .who-we-are-block .who-we-are.right {
+    margin-top: 45px;
+  }
+  .our-dashboard-block .images-step.mobile-img {
+    float: right;
+    margin: 10px 0 20px 20px;
+  }
+
+  .how-it-works-bg .how-it-step:last-child .images-step {
+    padding-top: 0;
+  }
+  footer#footer .footer-top .container > div.second-col {
+    display: none;
+  }
+  footer#footer .footer-top .container > div.first-col {
+    width: 30%;
+  }
+  footer#footer .footer-top .container > div.third-col {
+    width: 26%;
+    padding-left: 15px;
+  }
+  footer#footer .footer-top .container > div.fourth-col {
+    width: 44%;
+    padding-left: 15px;
+    padding-top: 10px;
+  }
+  footer#footer .footer-top .container > div.fifth-col {
+    width: 100%;
+    float: left;
+  }
+  .installations-main .installations-blocks {
+    width: 50%;
+    max-width: 50%;
+    flex: 0 0 50%;
+    padding: 0 12px 40px;
+  }
+  .installations-main .invest-item-main .invest-contentbox h3 {
+    min-height: 48px;
+  }
+}
+
+@media screen and (max-width: 666px) {
+  .timeline-section .timeline-block > * {
+    width: 100%;
+    max-width: 100%;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    padding: 0 0 0px 0 !important;
+  }
+  .timeline-section .timeline-block {
+    border: 1px solid #ccc;
+    margin-bottom: 50px;
+  }
+  .timeline-section .timeline-block:last-child {
+    margin-bottom: 0;
+  }
+  .timeline-section .timeline-main {
+    padding: 0px 20px 45px;
+  }
+  .timeline-section .timeline-block .step-label {
+    top: -21px;
+    font-weight: 700;
+    margin-top: -10px;
+  }
+  .timeline-section .timeline-block:nth-child(2n + 2) > .right-side,
+  .timeline-section .timeline-block:nth-child(2n + 1) > .left-side {
+    border: 0;
+  }
+  .timeline-section .timeline-block img {
+    display: block;
+  }
+  .time-caption {
+    padding: 25px 15px 20px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  a.button:hover,
+  .button:hover,
+  button:hover,
+  form input[type='submit']:hover {
+    background-color: #fff !important;
+    /* background-color: #fbb116 !important; */
+    border-color: #fbb116 !important;
+  }
+}

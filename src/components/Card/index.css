@@ -1,0 +1,74 @@
+.Card {
+  --border: solid 1px #d3d3d3;
+  box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.04);
+  /* border: var(--border); */
+  background-color: #fff;
+  width: 100%;
+  margin: 12px 0 -2px;
+}
+
+.Card:not(:last-child) {
+  border-bottom: none;
+}
+
+.CardHeader,
+.CardBody {
+  padding: 5px 10px;
+}
+
+.CardHeader {
+  display: flex;
+  height: auto;
+  transition: min-height 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  user-select: none;
+  justify-content: space-between;
+  background: #dae9fa;
+  border-color: #dae9fa;
+  border-radius: 5px;
+  color: #333333;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: 900;
+  margin: 12px 0 -2px;
+  padding: 6px 15px;
+  position: relative;
+}
+
+.CardBody {
+  text-align: left;
+  line-height: 160%;
+  color: #333;
+  font-family: Muli, sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0 0 15px;
+  border: 0 none;
+  -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  overflow: auto;
+  padding: 20px 15px 30px;
+}
+
+.expandedIcon {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+
+body .ui-accordion .ui-state-active,
+body .ui-accordion .ui-widget-content .ui-state-active,
+body .ui-accordion .ui-widget-header .ui-state-active,
+body .ui-accordion a.ui-button:active,
+body .ui-accordion .ui-button:active,
+body .ui-accordion .ui-button.ui-state-active:hover {
+  border-color: #1957a6;
+  background: #1957a6;
+  color: #fff;
+}
