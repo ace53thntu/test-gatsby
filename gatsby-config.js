@@ -63,13 +63,13 @@ module.exports = {
         },
       },
     },
-    // {
-    //   resolve: 'gatsby-plugin-sri',
-    //   options: {
-    //     hash: 'sha256', // 'sha256', 'sha384' or 'sha512' ('sha512' = default)
-    //     crossorigin: true, // Optional
-    //   },
-    // },
+    {
+      resolve: 'gatsby-plugin-sri',
+      options: {
+        hash: 'sha256', // 'sha256', 'sha384' or 'sha512' ('sha512' = default)
+        crossorigin: true, // Optional
+      },
+    },
     // {
     //   resolve: 'gatsby-plugin-sri',
     //   options: {
