@@ -45,7 +45,7 @@ module.exports = {
         headers: {
           '/*': [
             'X-Frame-Options: SAMEORIGIN',
-            `Content-Security-Policy: frame-ancestors 'none';`,
+            `Content-Security-Policy: frame-ancestors 'self';`,
           ],
         },
       },
@@ -68,7 +68,6 @@ module.exports = {
             "'self' 'unsafe-inline' data: https://forms.hsforms.com/ https://track.hubspot.com/ https://d33wubrfki0l68.cloudfront.net/",
           'form-action': `'self' forms.hubspot.com forms.hsforms.com`,
           'default-src': `'self' https: 'unsafe-eval' 'unsafe-inline'`,
-          // 'default-src': `'self'`,
           'connect-src': `'self' https:`,
           'font-src': `'self' data: https://d33wubrfki0l68.cloudfront.net/`,
         },
