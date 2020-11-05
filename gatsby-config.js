@@ -60,6 +60,7 @@ module.exports = {
           'default-src': `'self' https: 'unsafe-eval' 'unsafe-inline'`,
           'connect-src': `'self' https:`,
           'font-src': `'self' data: https://d33wubrfki0l68.cloudfront.net/`,
+          'frame-ancestors': `'self'`,
         },
       },
     },
