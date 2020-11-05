@@ -68,8 +68,6 @@ module.exports = {
           'default-src': `'self'`,
           'connect-src': `'self' https:`,
           'font-src': `'self' data: https://d33wubrfki0l68.cloudfront.net/`,
-          'frame-ancestors': `'self'`,
-          'object-src': `'none'`,
         },
       },
     },
